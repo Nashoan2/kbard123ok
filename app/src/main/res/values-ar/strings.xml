@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenSwift</string>
+    <string name="subtype_en">English</string>
+    <string name="subtype_ar">العربية</string>
+    <string name="enable_keyboard">تفعيل OpenSwift في إعدادات النظام</string>
+    <string name="select_keyboard">اختيار OpenSwift كطريقة إدخال</string>
+    <string name="settings">الإعدادات</string>
+</resources>

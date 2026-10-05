@@ -1,0 +1,8 @@
+{
+  "name": "OpenSwift",
+  "description": "لوحة مفاتيح سريعة وخاصة للأندرويد تعمل دون اتصال بالإنترنت وتدعم الكتابة بالسحب والتخصيص",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
